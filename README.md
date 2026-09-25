@@ -1,3 +1,3 @@
 # Message Processor
-A simple application demonstrating:
-Git → GitHub → Streamlit → FastAPI → Docker
+
+Learning Git, Streamlit, FastAPI, Docker, and local deployment.
